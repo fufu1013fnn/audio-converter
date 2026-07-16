@@ -1,0 +1,10 @@
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.zip
+ffmpeg-download/
+vendor/
+.DS_Store
+Thumbs.db
