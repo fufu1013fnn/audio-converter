@@ -4,6 +4,7 @@ obj/
 *.dll
 *.pdb
 *.zip
+*.apk
 ffmpeg-download/
 vendor/
 .DS_Store
