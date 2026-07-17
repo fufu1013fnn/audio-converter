@@ -1,0 +1,19 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'top.fufumc.audioconverter'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'top.fufumc.audioconverter'
+        minSdk 24
+        targetSdk 35
+        versionCode 1
+        versionName '1.0.0'
+    }
+}
+
+dependencies {
+}
